@@ -1,5 +1,5 @@
 <p align="center">
-<img src="mgt/img-carlos.jpg" alt="Carlos José" width=40%>
+<img src="img-carlos.jpg" alt="Carlos José" width=40%>
 </p>
 
 <h1>Portfólio digital de Carlos José Diniz Intrieri, criando conflito com muito afinco</h1>
